@@ -1,0 +1,10 @@
+# Environment variables
+WORKSPACE_ID=workspace_id
+CONVERSATION_USERNAME=conversation_username
+CONVERSATION_PASSWORD=conversation_password
+ACCOUNTSID=accountSid
+AUTHTOKEN=authToken
+TWILIONUMBER=twilionumber
+MYNUMBER=mynumber
+
+
