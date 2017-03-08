@@ -1,5 +1,5 @@
 # SMSchatbot
-SMS chatbot built with Twilio SMS and IBM Watson Developer Cloud Conversation APIs
+SMS chatbot built with Twilio Programmable SMS and IBM Watson Developer Cloud Conversation APIs
 
 This app demonstrates how chatbot services, such as IBM Watson's Developer Cloud Conversation, can be deployed with SMS using the Twilio Programmable SMS API.
 
